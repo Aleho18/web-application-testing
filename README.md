@@ -1,29 +1,36 @@
-Hi, I'm Alejandro Suárez
+Web Application Testing
 
-About me
+Project Overview
 
-Industrial Engineer with over 5 years of experience in quality management systems and continuous improvement.
+This project was completed as part of the QA Engineering Bootcamp at TripleTen.
 
-Currently training as a QA Engineer at TripleTen, where I have developed practical experience in:
+The objective was to validate the functionality of a web application by designing and executing manual test cases, identifying defects and documenting the testing process.
 
-- Manual Testing
+## Objectives
+
+- Validate functional requirements.
+- Design and execute test cases.
+- Create testing checklists.
+- Report software defects.
+
+Tools
+
+- Jira
+- Chrome DevTools
+- Test Cases
+- Checklists
+- Bug Reports
+
+Project Artifacts
+
+- Test Cases
+- Checklists
+- Bug Reports
+- Screenshots (if applicable)
+
+Skills Demonstrated
+
 - Functional Testing
-- API Testing
 - Test Case Design
 - Bug Reporting
-- Jira
-- Postman
-- SQL
-- Chrome DevTools
-
-Projects
-
-- Web Application Testing
-- API Testing with Postman
-- Test Case Design & Defect Management
-
-Contact
-
-LinkedIn: [https://linkedin.com/in/...](https://www.linkedin.com/in/alejandro-suarez-0b1754139/)
-
-Email: alehosuarez18@gmail.com
+- Defect Analysis
